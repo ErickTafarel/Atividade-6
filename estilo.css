@@ -1,0 +1,82 @@
+*{
+margin: 0;
+padding: 0;  /* CSS Reset */
+}
+.um{
+ width: 100%;
+ height:106px;
+ float:left;
+ text-align:center;
+ line-height:90px;
+ background-color:yellow;
+}
+.dois{
+ width: 100%;
+ height:256px;
+ float:left;
+ text-align:center;
+ line-height:80px;
+ color:white;
+ background-color:#40E0D0;
+}
+
+.pa1{
+	font-size:25px;
+}
+
+.pa2{
+	font-size:50px;
+}
+
+.tres{
+ width: 100%;
+ height:86px;
+ float:left;
+ text-align:center;
+ line-height:80px;
+ color:white;
+ background-color:#828282;
+}
+
+.quatro{
+ width: 100%;
+ height:86px;
+ float:left;
+ text-align:center;
+ line-height:80px;
+ color:white;
+ background-color:#828282;
+}
+
+.cinco{
+ width: 100%;
+ height:86px;
+ float:left;
+ text-align:center;
+ line-height:80px;
+ color:white;
+ background-color:#828282;
+}
+
+.seis{ 
+ width: 100%;
+ height:86px;
+ float:left;
+ text-align:center;
+ line-height:80px;
+ color:white;
+ background-color:#828282;
+}
+
+.sete{
+ width: 100%;
+ height:486px;
+ float:left;
+ background-color:#E8E8E8;
+ padding-left:20px;
+ padding-top:20px;
+}
+
+.pa3{
+	font-size:25px;
+}
